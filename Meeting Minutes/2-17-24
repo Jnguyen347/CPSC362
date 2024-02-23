@@ -1,0 +1,33 @@
+GROUP MEETING NOTES
+===================
+
+- Briefly talked about the SRS and our previous work
+- Discussed what other parts of the SRS needed to be worked on
+- Discussed that we needed to start researching & learning about Diagrams.
+- Discussed that we still needed to complete the following Diagrams for the SRS:
+
+///////////////////////////
+5.2 Functional Requirements
+• Context Diagram
+• DFD (Data Flow Model)
+• Process Flow
+
+5.3 User Classes and Characteristics (as needed)
+• Conceptual Class Diagram
+
+7 Architectural Diagram
+• Package Diagram
+
+8 Use-Case Diagram with Use-Case Descriptions
+• Use-Case Diagram
+• Use-Case Descriptions (Fully Dressed)
+
+9 Functional Modeling/Design Diagrams
+• Sequence Diagram
+• Domain Model
+• Class Diagram
+• Detailed Design Class Diagram
+///////////////////////////
+
+- Discussed that a Use Case Diagram needed to be completed, before work on the individual Use Case Documents for the Features could be accomplished.
+- Discussed that we will reconvene on Thursday, 2/22 with a Use Case Diagram & re-evaluate further progress.
